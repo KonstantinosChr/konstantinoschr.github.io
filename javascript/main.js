@@ -7,7 +7,7 @@
      2. Put the code you chose below, e.g. "konstantinoschr"
      Leave it empty to keep analytics switched off.
      ========================================================== */
-  const GOATCOUNTER_CODE = "";
+  const GOATCOUNTER_CODE = "chrousis";
 
   const root = document.documentElement;
   root.classList.add("js");
